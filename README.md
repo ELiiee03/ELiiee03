@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @ELiiee03
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+lowkey/lazy dev
 
 <!---
 ELiiee03/ELiiee03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
