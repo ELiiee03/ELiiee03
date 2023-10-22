@@ -1,4 +1,4 @@
-lowkey/lazy dev
+lazy dev
 
 <!---
 ELiiee03/ELiiee03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
